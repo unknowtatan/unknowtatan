@@ -31,7 +31,9 @@ Maestría en Gestión y Seguridad de la Información (en curso) e Ingeniería de
 
 #### En Koscrypt
 
-Investigamos y construimos en **ciberseguridad y privacidad** desde Colombia. Publicamos herramientas abiertas: local primero, cero telemetría y código auditable.
+Cofundador de **Koscrypt S.A.S.**: ciberseguridad orientada a IA y guiada por IA para empresas en Colombia.
+
+Herramientas abiertas:
 
 - 📵 [**Paz Mental**](https://github.com/koscryptExternal/paz-mental): filtro de llamadas para Android que no usa internet ni accede a tus contactos.
 
