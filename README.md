@@ -19,7 +19,7 @@ empresarial**, en el sector financiero y asegurador regulado de Colombia.
 | Periodo | Cargo |
 |---|---|
 | 2026 – hoy | Arquitecto de Seguridad · aseguradora regulada |
-| 2023 – 2026 | Gerente de Seguridad de TI · estrategia, presupuesto y reporte a Junta Directiva |
+| 2023 – 2026 | Profesional de Seguridad Informática · estrategia, presupuesto y reporte a Junta Directiva |
 | 2021 – 2023 | Profesional de Seguridad de la Información · riesgo y cumplimiento regulatorio |
 | 2018 – 2021 | Consultor en Ciberseguridad / Ethical Hacker |
 
