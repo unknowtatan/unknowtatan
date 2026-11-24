@@ -1,6 +1,6 @@
 ### Hola, soy Jhonatan Gutiérrez 👋
 
-Cofundador de **[Koscrypt](https://github.com/koscryptExternal)**: investigación en **ciberseguridad y privacidad** desde Bogotá, Colombia.
+Cofundador de **[Koscrypt](https://github.com/koscryptExternal)**: investigación en **ciberseguridad y privacidad** desde Colombia.
 
 Construyo herramientas pequeñas que resuelven problemas reales **sin pedirte tus datos a cambio**:
 local primero, cero telemetría, permisos mínimos y código que cualquiera puede auditar.
