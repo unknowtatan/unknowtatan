@@ -1,14 +1,38 @@
-### Hola, soy Jhonatan Gutiérrez 👋
+### Jhonatan Gutiérrez
 
-Cofundador de **[Koscrypt](https://github.com/koscryptExternal)**: investigación en **ciberseguridad y privacidad** desde Colombia.
+**Arquitecto de Seguridad · Líder de Ciberseguridad · Cofundador de [Koscrypt](https://github.com/koscryptExternal)**
 
-Construyo herramientas pequeñas que resuelven problemas reales **sin pedirte tus datos a cambio**:
-local primero, cero telemetría, permisos mínimos y código que cualquiera puede auditar.
+Más de 8 años en ciberseguridad y 14 en tecnologías de la información. Mi trayectoria va de la
+**seguridad ofensiva** a la **gestión de seguridad de la información** y la **arquitectura de seguridad
+empresarial**, en el sector financiero y asegurador regulado de Colombia.
 
-**Proyectos**
+#### Qué hago
 
-- 📵 [**Paz Mental**](https://github.com/koscryptExternal/paz-mental): filtro de llamadas para Android que silencia a los desconocidos y deja sonar a quien insiste. No usa internet ni accede a tus contactos.
+- 🏛️ **Arquitectura de seguridad empresarial:** TOGAF ADM, SABSA, O-ESA y ArchiMate. Zero Trust y defensa en profundidad.
+- 📋 **Gobierno, riesgo y cumplimiento:** ISO/IEC 27001, ISO 22301, NIST CSF 2.0 y regulación financiera colombiana.
+- ☁️ **Nube e identidad:** Azure y AWS. IAM, PAM, SSO y MFA.
+- 🤖 **Gobierno de IA:** NIST AI RMF e ISO/IEC 42001.
+- 🗡️ **Seguridad ofensiva y AppSec:** hacking ético en web, API y móvil. OWASP.
 
-**Intereses:** arquitectura de seguridad · privacidad desde el diseño · gobierno de IA · seguridad móvil
+#### Trayectoria
 
-🌐 [koscrypt.com](https://koscrypt.com)
+| Periodo | Cargo |
+|---|---|
+| 2026 – hoy | Arquitecto de Seguridad · aseguradora regulada |
+| 2023 – 2026 | Gerente de Seguridad de TI · estrategia, presupuesto y reporte a Junta Directiva |
+| 2021 – 2023 | Profesional de Seguridad de la Información · riesgo y cumplimiento regulatorio |
+| 2018 – 2021 | Consultor en Ciberseguridad / Ethical Hacker |
+
+#### Certificaciones y formación
+
+Auditor Líder ISO/IEC 27001:2022 · Auditor Líder ISO 22301:2019 · ISC2 Certified in Cybersecurity (CC) · Certified Ethical Hacker (CEH)
+
+Maestría en Gestión y Seguridad de la Información (en curso) e Ingeniería de Sistemas, Universidad Distrital Francisco José de Caldas.
+
+#### En Koscrypt
+
+Investigamos y construimos en **ciberseguridad y privacidad** desde Colombia. Publicamos herramientas abiertas: local primero, cero telemetría y código auditable.
+
+- 📵 [**Paz Mental**](https://github.com/koscryptExternal/paz-mental): filtro de llamadas para Android que no usa internet ni accede a tus contactos.
+
+🌐 [koscrypt.com](https://koscrypt.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jhonatan-g-400176144)
